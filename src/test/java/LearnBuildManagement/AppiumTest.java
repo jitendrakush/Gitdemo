@@ -10,16 +10,25 @@ public class AppiumTest {
 		System.out.println("NativeAndroidApp");
 	}
 	
-	public class AppiumTest2 {
+	
 		
 		@Test
-		public void NativeAndroidApp() {
+		public void NativeAndroidApp2() {
 			System.out.println("NativeAndroidApp");
 			System.out.println("NativeAndroidApp");
 			System.out.println("NativeAndroidApp");
 		}
 	@Test
 	public void IosApp() {
+		System.out.println("IosApp");
+		System.out.println("IosApp");		
+		System.out.println("IosApp");
+		System.out.println("IosApp");
+		
+	}
+	
+	@Test
+	public void IosApp2() {
 		System.out.println("IosApp");
 		System.out.println("IosApp");		
 		System.out.println("IosApp");
