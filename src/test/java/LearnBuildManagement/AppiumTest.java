@@ -28,11 +28,5 @@ public class AppiumTest {
 		System.out.println("IosApp");	
 		
 	}
-	public void IosApp3() {
-		System.out.println("IosApp");
-		System.out.println("IosApp");		
-		System.out.println("IosApp");
-		
-	}
 
 }
