@@ -21,11 +21,18 @@ public class AppiumTest {
 	@Test
 	public void IosApp() {
 		System.out.println("IosApp");
-		System.out.println("IosApp");		
+	}
+	
+	public void IosApp2() {
 		System.out.println("IosApp");
+		System.out.println("IosApp");	
+		
+	}
+	public void IosApp3() {
+		System.out.println("IosApp");
+		System.out.println("IosApp");		
 		System.out.println("IosApp");
 		
 	}
-
 }
 }
